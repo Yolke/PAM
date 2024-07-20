@@ -63,10 +63,6 @@ Le fichier `choixpeauMagique.csv` contient des données sous la forme :
 
 Chaque ligne représente un objet avec des attributs spécifiques.
 
-## Auteur
-
-Ce projet a été développé par Jérémy Gago
-
 ## Contact
 
 Pour toute question ou suggestion, veuillez me contacter à [jeremygago@hotmail.fr].
